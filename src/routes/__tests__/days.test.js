@@ -28,7 +28,7 @@ describe("Days", () => {
           spots: 1
         },
         {
-          id: 2,
+          id: 2, 
           name: "Tuesday",
           appointments: [3, 4],
           interviewers: [1, 2],
